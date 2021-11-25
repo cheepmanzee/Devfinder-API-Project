@@ -107,6 +107,10 @@ body {
   color: #222;
 }
 
+.light .main .card .card__info .info__top .info__name .name__tag {
+  color: #0079FE !important;
+}
+
 .light .main .card .card__info .info__data {
   background-color: #b1b1b1;
 }

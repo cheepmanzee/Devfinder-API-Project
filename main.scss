@@ -51,6 +51,13 @@ body {
          background-color: #ddd;
          color: #222;
          .card__info {
+            .info__top {
+               .info__name {
+                  .name__tag {
+                     color: #0079FE !important;
+                  }
+               }  
+            }
             .info__data {
                background-color: rgb(177, 177, 177);
             }
